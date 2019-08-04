@@ -1,0 +1,92 @@
+/*
+* 	Owl Carousel Owl Demo Theme 
+*	v1.3.3
+*/
+.owl-theme .owl-controls{
+	line-height:8px;
+	text-align: center;
+}
+.owl-theme .owl-controls .owl-buttons div{
+	top:50%;
+	z-index:8;
+	color:#444549;
+	font-size: 12px;
+	line-height:12px;
+	margin:-30px 0 0;
+	position:absolute;
+	text-transform:uppercase;
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+.owl-theme .owl-controls .owl-buttons div.owl-prev{ left:-60px;}
+.owl-theme .owl-controls .owl-buttons div.owl-next{ right:-60px;}
+.tg-slider.owl-theme .owl-controls .owl-buttons div.owl-prev{left:80px;}
+.tg-slider.owl-theme .owl-controls .owl-buttons div.owl-next{right:80px;}
+.tg-slider.owl-theme .owl-controls .owl-buttons div.owl-prev,
+.tg-slider.owl-theme .owl-controls .owl-buttons div.owl-next{ margin:0;}
+.tg-slideprev,
+.tg-slidenext{
+	display:block;
+	position:relative;
+	padding:0 0 3px;
+	border-bottom:2px solid #444549;
+}
+.tg-slideprev em,
+.tg-slidenext em{
+	display:block;
+	font-style:normal;
+}
+.tg-slideprev .fa,
+.tg-slidenext .fa{
+	opacity:0;
+	bottom:-6px;
+	font-size:19px;
+	line-height:11px;
+	position:absolute;
+	visibility:hidden;
+}
+.tg-slideprev .fa{right:0;}
+.tg-slidenext .fa{left:0;}
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slideprev{padding-left:25px;}
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slidenext{padding-right:25px;}
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slideprev .fa,
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slidenext .fa{
+	opacity:1;
+	visibility:visible;
+}
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slideprev .fa{right:53px;}
+.owl-theme .owl-controls .owl-buttons div:hover .tg-slidenext .fa{left:53px;}
+.owl-theme .owl-controls .owl-pagination{
+	display:none;
+	padding:40px 0 0;
+}
+.owl-theme .owl-controls .owl-page{
+	display: inline-block;
+	vertical-align:top;
+}
+.owl-theme .owl-controls .owl-page span{
+	width: 8px;
+	height: 8px;
+	display: block;
+	margin: 0 4px;
+	background: #444549;
+	border:1px solid #444549;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{background: none;}
+.owl-theme .owl-controls .owl-page span.owl-numbers{
+	height: auto;
+	width: auto;
+	color: #fff;
+	font-size: 12px;
+	padding: 2px 10px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+.owl-item.loading{
+	min-height: 150px;
+	background: url(../images/AjaxLoader.gif) no-repeat center center
+}

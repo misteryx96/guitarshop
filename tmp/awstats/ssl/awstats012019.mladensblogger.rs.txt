@@ -1,0 +1,264 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/ssl/awstats.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2695                
+POS_VISITOR 6223                
+POS_DAY 6491                
+POS_DOMAIN 3254                
+POS_LOGIN 3510                
+POS_ROBOT 3665                
+POS_WORMS 3830                
+POS_EMAILSENDER 3961                
+POS_EMAILRECEIVER 4104                
+POS_SESSION 6844                
+POS_SIDER 7001                
+POS_FILETYPES 4239                
+POS_DOWNLOADS 4372                
+POS_OS 4420                
+POS_BROWSER 4533                
+POS_SCREENSIZE 4664                
+POS_UNKNOWNREFERER 4738                
+POS_UNKNOWNREFERERBROWSER 4944                
+POS_ORIGIN 5060                
+POS_SEREFERRALS 5192                
+POS_PAGEREFS 5336                
+POS_SEARCHWORDS 5484                
+POS_KEYWORDS 5636                
+POS_MISC 2359                
+POS_ERRORS 5695                
+POS_CLUSTER 3366                
+POS_SIDER_404 5806                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201065615 254 52493 5222269138781
+FirstTime 20190102055643
+LastTime 20190130103517
+LastUpdate 20190202031004 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 1 1 14936 0 0 0
+2 1 1 14811 0 0 0
+3 1 1 14911 0 0 0
+4 0 0 0 0 0 0
+5 4 4 59669 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 3 12 455997 0 3 65666
+10 1 1 14911 0 0 0
+11 1 1 14911 1 2 32857
+12 2 2 29722 2 2 104
+13 0 0 0 0 0 0
+14 0 0 0 1 2 32857
+15 2 2 29747 1 1 52
+16 0 0 0 0 0 0
+17 2 2 29722 1 1 52
+18 1 1 14811 3 3 36441
+19 1 1 14911 0 0 0
+20 0 0 0 1 1 36371
+21 1 1 14911 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 1 2 32857
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 11 11 163921
+cn 9 9 133799
+rs 1 10 426250
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Googlebot/ 3 72 20190128233048 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 4 149895 0 0
+jpg 1 100823 0 0
+js 4 160621 0 0
+html 21 312631 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx12 9 9
+win7 10 1
+macosx11 9 9
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+Unknown 1 1
+mozilla 1 1
+firefox47.0 9 9
+chrome61.0.3163.100 9 9
+firefox64.0 10 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190106174806
+Go-http-client/1.1 20190109054404
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20190109054404
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 21 21
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 9
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 4 72812
+404 5 164165
+400 4 208
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/assets/ItemSlider/js/jquery.catslider.js 2 https://www.mladensblogger.rs/
+/.well-known/assetlinks.json 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+13.57.233.99 9 9 134199 20190130103517
+60.191.38.77 9 9 133799 20190122152059
+104.248.10.149 1 1 14811 20190106174806
+206.225.95.23 1 1 14911 20190109054404
+147.91.1.45 1 10 426250 20190117090758
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20190102 1 1 14911 1
+20190104 2 2 29747 1
+20190105 1 1 14911 1
+20190106 3 3 44558 3
+20190108 1 1 14911 1
+20190109 1 1 14911 1
+20190110 2 2 29747 2
+20190113 1 1 14911 1
+20190117 2 11 441161 2
+20190120 3 3 44658 3
+20190122 1 1 14811 1
+20190123 1 1 14911 1
+20190127 1 1 14911 1
+20190130 1 1 14911 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 21 312631 20 20
+END_SIDER

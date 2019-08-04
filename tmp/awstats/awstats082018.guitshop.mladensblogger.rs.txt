@@ -1,0 +1,329 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/awstats.guitshop.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2703                
+POS_VISITOR 7546                
+POS_DAY 8441                
+POS_DOMAIN 3348                
+POS_LOGIN 3597                
+POS_ROBOT 3752                
+POS_WORMS 3974                
+POS_EMAILSENDER 4105                
+POS_EMAILRECEIVER 4248                
+POS_SESSION 8781                
+POS_SIDER 8967                
+POS_FILETYPES 4383                
+POS_DOWNLOADS 4608                
+POS_OS 4656                
+POS_BROWSER 4796                
+POS_SCREENSIZE 4986                
+POS_UNKNOWNREFERER 5060                
+POS_UNKNOWNREFERERBROWSER 5147                
+POS_ORIGIN 5229                
+POS_SEREFERRALS 5366                
+POS_PAGEREFS 5510                
+POS_SEARCHWORDS 5684                
+POS_KEYWORDS 5836                
+POS_MISC 2366                
+POS_ERRORS 5895                
+POS_CLUSTER 3453                
+POS_SIDER_404 6048                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180908125648 2163 522204 8037749862277
+FirstTime 20180803170254
+LastTime 20180821225256
+LastUpdate 20180908164946 1 0 0 0 0
+TotalVisits 25                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 27 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 1 1 26805 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 20 49 2796317 2 5 100875
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 42 105 3997701 11 16 451126
+15 145 297 13326376 28 53 2381320
+16 46 109 5237558 25 25 664757
+17 66 161 8196984 15 26 666211
+18 130 291 11583466 44 44 989066
+19 27 79 3099937 9 16 414098
+20 52 150 4956491 14 14 349620
+21 208 463 18150932 61 85 2749198
+22 69 138 6017114 33 35 1002413
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+rs 785 1802 75072880
+us 21 41 2316801
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+facebookexternalhit/ 27 1312457 20180826192239 0
+no_user_agent 8 1253160 20180804151242 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 50 1338752 0 0
+Unknown 729 28127799 0 0
+php 2 54512 0 0
+css 602 18644258 0 0
+js 42 629123 0 0
+jpg 180 20480826 0 0
+png 213 6346211 0 0
+woff2 25 1768200 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 887 380
+ios_iphone 40 20
+linuxandroid 211 102
+linux 1 1
+win7 704 303
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome68.0.3440.91 50 20
+chrome68.0.3440.106 110 50
+firefox61.0 1520 653
+chrome67.0.3396.87 122 62
+chrome60.0.3112.101 1 1
+safari11.0 40 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 45 46
+From1 0 0
+From2 0 0
+From3 6 6
+From4 755 1791
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 1 251
+500 24 757182
+404 191 6335470
+206 1 27236
+405 2 68480
+302 38 14448
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/images/logo2.png 1 http://guitshop.mladensblogger.rs/
+/apple-touch-icon.png 13 -
+/test_files/img-04.jpg 1 http://guitshop.mladensblogger.rs/
+/fonts/fontawesome-webfont.woff 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+/user/verify/lU6KYlabNRk7tKqXzLL7ftVzQp1EevSBmeotomqv 1 http://guitshop.mladensblogger.rs/register
+/fonts/fontawesome-webfont.woff2 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+/pics/product1/test_files/main2.js.download 153 http://guitshop.mladensblogger.rs/logreg
+/pics/product1/css/bootstrap.min.css.map 6 -
+/users/verify/CVbX2UnhZDO2MOt8cpFckXPfTJC8zoTROJKAeTEz 1 -
+/admin 1 -
+/cpp.php 1 http://guitshop.mladensblogger.rs/logreg
+/index.php/index.php 1 http://guitshop.mladensblogger.rs/index.php/logreg
+/user/verify/msXJAsoGRCvDFe96ggQAgXAvL5hlyoatNp97vQlS 4 -
+/%22css/main.css%22 1 http://guitshop.mladensblogger.rs/
+/images/logo.png 1 http://guitshop.mladensblogger.rs/
+/fonts/fontawesome-webfont.ttf 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+/kontakt.php 1 http://guitshop.mladensblogger.rs/
+/%22css/responsive.css%22 1 http://guitshop.mladensblogger.rs/
+/images/img-01.jpg 1 http://guitshop.mladensblogger.rs/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+178.220.94.66 133 304 8603041 20180803221429
+178.220.94.75 108 263 10192586 20180803183106
+109.92.158.98 93 215 9558254 20180821210909
+109.92.158.17 88 189 9587864 20180815184007
+178.220.94.190 65 151 7086247 20180818164638
+178.220.94.229 55 109 2969106 20180819210349
+93.92.252.44 50 110 6301861 20180821225256
+109.92.158.115 42 88 3061462 20180804195544
+212.200.247.107 41 80 4358836 20180804151411
+178.220.94.25 24 100 3725126 20180817203812
+178.220.160.50 21 41 2310086 20180804151403
+178.220.94.22 20 49 2796317 20180811114922
+79.101.13.4 20 40 2289996 20180803220032
+109.92.158.60 20 39 1009000 20180820143718
+66.220.156.57 11 21 1459147 20180804151215
+66.220.156.54 5 12 669387 20180804151215
+178.220.94.32 5 24 1223098 20180816160904
+66.220.156.55 4 7 161462 20180804151216
+54.160.125.179 1 1 26805 20180809010919
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20180803 261 607 21085623 3
+20180804 124 249 12020380 7
+20180809 1 1 26805 1
+20180811 20 49 2796317 1
+20180815 88 189 9587864 1
+20180816 5 24 1223098 1
+20180817 24 100 3725126 3
+20180818 65 151 7086247 2
+20180819 55 109 2969106 2
+20180820 20 39 1009000 1
+20180821 143 325 15860115 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 3
+0s-30s 13
+1h+ 3
+15mn-30mn 1
+5mn-15mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 50 1338752 9 6
+/logreg 45 908330 13 2
+/pics/product1/test_files/customScrollbar.min.js.download 39 1273524 1 0
+/pics/product1/test_files/hoverdir.js.download 39 130900 0 0
+/pics/product1/test_files/countTo.js.download 39 97275 0 0
+/pics/product1/test_files/parallax.js.download 38 267576 0 0
+/pics/product1/test_files/gmap3.js.download 38 1653850 0 4
+/pics/product1/test_files/jquery.easings.min.js.download 38 349191 0 0
+/pics/product1/test_files/js 38 1953600 0 0
+/pics/product1/test_files/appear.js.download 38 37125 0 1
+/pics/product1/test_files/packery-mode.js.download 38 277242 0 0
+/pics/product1/test_files/scrolloverflow.min.js.download 37 893025 1 0
+/pics/product1/test_files/jquery.fullPage.js.download 37 3207681 0 0
+/pics/product1/test_files/jquery-library.js.download 36 2111164 0 0
+/pics/product1/test_files/isotope.pkgd.js.download 36 2639340 0 0
+/pics/product1/test_files/owl.carousel.min.js.download 36 526592 0 0
+/pics/product1/test_files/jquery.countdown.js.download 36 63580 0 1
+/pics/product1/test_files/bootstrap.min.js.download 36 815122 0 0
+/pics/product1/test_files/prettyPhoto.js.download 36 473264 0 0
+/pics/product1/test_files/jquery-ui.js.download 35 10202430 0 3
+/pics/product1/fonts/fontawesome-webfont.woff2 25 1768200 0 7
+/users 4 75489 0 0
+/login 3 47043 1 0
+/index.php 2 54512 0 1
+/index.php/logreg 2 41122 0 0
+/register 2 32362 0 0
+/admin_panel 2 32324 0 0
+/users/41 1 18648 0 0
+END_SIDER

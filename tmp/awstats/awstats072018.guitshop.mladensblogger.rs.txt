@@ -1,0 +1,292 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/awstats.guitshop.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2694                
+POS_VISITOR 7135                
+POS_DAY 7492                
+POS_DOMAIN 3213                
+POS_LOGIN 3517                
+POS_ROBOT 3672                
+POS_WORMS 3804                
+POS_EMAILSENDER 3935                
+POS_EMAILRECEIVER 4078                
+POS_SESSION 7678                
+POS_SIDER 7835                
+POS_FILETYPES 4213                
+POS_DOWNLOADS 4384                
+POS_OS 4721                
+POS_BROWSER 4850                
+POS_SCREENSIZE 5017                
+POS_UNKNOWNREFERER 5091                
+POS_UNKNOWNREFERERBROWSER 5204                
+POS_ORIGIN 5312                
+POS_SEREFERRALS 5446                
+POS_PAGEREFS 5590                
+POS_SEARCHWORDS 5764                
+POS_KEYWORDS 5916                
+POS_MISC 2358                
+POS_ERRORS 5975                
+POS_CLUSTER 3373                
+POS_SIDER_404 6065                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180803170254 1 0 7947751490972
+FirstTime 20180703040248
+LastTime 20180721092133
+LastUpdate 20180804055019 1 0 0 0 0
+TotalVisits 8                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 15126 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 7 513 0 0 0
+4 1 1 15126 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 16 16 1334557 0 0 0
+9 1 1 17084 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 1 1 15126 0 0 0
+13 0 0 0 0 0 0
+14 2 29 924429 8 16 497550
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 1 1 15126 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+nl 15 15 1319327
+ru 3 3 45378
+us 2 2 30356
+rs 2 29 924429
+cn 1 1 17084
+gb 0 2 154
+ua 0 5 359
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+js 10 327306 0 0
+txt 7 513 0 0
+css 16 464090 0 0
+html 9 140258 0 0
+Unknown 14 1304097 0 0
+jpg 1 100823 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/.well-known/pki-validation/DA2EF81CED47BD6FD618C6974F443FF9.txt 4 0 308
+/.well-known/pki-validation/44E700F6A8C5293AB44E3CEE22A00969.txt 1 0 77
+/.well-known/pki-validation/460081CDF2894EB1DC61811A35D63CC5.txt 1 0 64
+/.well-known/pki-validation/302712CCE589CD117899721AEB53B292.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linuxandroid 16 16
+Unknown 7 0
+macosx11 1 1
+win7 29 2
+win10 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+firefox47.0 1 1
+chrome41.0.2272.96 16 16
+chrome61.0.3163.100 1 1
+Unknown 7 0
+chrome67.0.3396.87 3 3
+firefox61.0 29 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20180731031134
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20180731031134
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 14
+From1 0 0
+From2 0 0
+From3 16 16
+From4 0 27
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.cjb.net 16 16
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 15 497550
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/images/img-01.jpg 1 http://guitshop.mladensblogger.rs/
+/fonts/fontawesome-webfont.woff2 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+/test_files/img-04.jpg 1 http://guitshop.mladensblogger.rs/
+/fonts/fontawesome-webfont.ttf 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+/css/bootstrap.min.css.map 1 -
+/apple-touch-icon.png 1 -
+/%22css/responsive.css%22 2 http://guitshop.mladensblogger.rs/
+/%22css/main.css%22 2 http://guitshop.mladensblogger.rs/
+/assets/ItemSlider/js/jquery.catslider.js 2 http://guitshop.mladensblogger.rs/
+/images/logo.png 1 http://guitshop.mladensblogger.rs/
+/images/logo2.png 1 http://guitshop.mladensblogger.rs/
+/fonts/fontawesome-webfont.woff 1 http://guitshop.mladensblogger.rs/css/font-awesome.min.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+77.247.181.162 15 15 1319327 20180707084200
+80.93.187.145 3 3 45378 20180703233406
+147.91.1.42 2 29 924429 20180714143839
+122.228.10.51 1 1 17084 20180721092133
+107.181.187.55 1 1 15230 20180707084153
+18.179.27.37 1 1 15126 20180705000529
+94.130.23.82 0 5 359 
+91.199.212.132 0 2 154 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20180703 3 3 45378 3
+20180705 1 1 15126 1
+20180707 16 16 1334557 2
+20180714 2 29 924429 1
+20180721 1 1 17084 1
+20180731 0 7 513 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 9 140258 7 7
+/reg_page 1 8945 0 0
+/guitarsMnfctr/Fender 1 11461 0 0
+/guitarsMnfctr/Epiphone 1 10014 0 0
+/gallery 1 11435 0 0
+/guitarsType/Bass 1 11423 0 0
+/guitarsType/Acoustic 1 15531 0 0
+/guitarsMnfctr/Yamaha 1 10707 0 0
+/guitars 1 23888 1 0
+/guitarsMnfctr/LTD 1 9330 0 0
+/doc 1 937258 0 1
+/login_page 1 8535 0 0
+/autor 1 8383 0 0
+/cv 1 225045 0 0
+/guitarsType/Electric 1 12142 0 0
+END_SIDER

@@ -1,0 +1,351 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/awstats.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2692                
+POS_VISITOR 8564                
+POS_DAY 9531                
+POS_DOMAIN 3430                
+POS_LOGIN 3783                
+POS_ROBOT 3938                
+POS_WORMS 4226                
+POS_EMAILSENDER 4357                
+POS_EMAILRECEIVER 4500                
+POS_SESSION 9957                
+POS_SIDER 10126               
+POS_FILETYPES 4635                
+POS_DOWNLOADS 4796                
+POS_OS 4863                
+POS_BROWSER 5021                
+POS_SCREENSIZE 5414                
+POS_UNKNOWNREFERER 5488                
+POS_UNKNOWNREFERERBROWSER 5821                
+POS_ORIGIN 5903                
+POS_SEREFERRALS 6037                
+POS_PAGEREFS 6181                
+POS_SEARCHWORDS 6423                
+POS_KEYWORDS 6575                
+POS_MISC 2356                
+POS_ERRORS 6634                
+POS_CLUSTER 3639                
+POS_SIDER_404 6747                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201013522 11 2096 18336081864361
+FirstTime 20181102092728
+LastTime 20181130201653
+LastUpdate 20181201152658 11 0 10 0 0
+TotalVisits 27                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 6 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 14886 37 45 1530653
+1 2 11 437613 42 53 689127
+2 0 0 0 25 25 2194371
+3 0 0 0 11 17 2133912
+4 1 1 14886 5 17 1167568
+5 1 1 14886 17 23 352674
+6 2 2 29772 32 44 1579957
+7 0 0 0 41 50 2541478
+8 2 2 29572 32 38 290977
+9 2 11 426221 28 34 1443268
+10 2 11 441011 31 39 343017
+11 2 11 460072 34 46 559864
+12 11 49 810930 38 57 3072447
+13 0 0 0 21 41 399819
+14 0 0 0 28 44 1627950
+15 0 0 0 21 46 2738832
+16 2 11 441011 18 36 561663
+17 2 2 29672 32 43 2638577
+18 1 1 14886 37 42 613930
+19 1 1 14886 22 29 1316467
+20 2 2 986007 19 28 296853
+21 0 0 0 19 27 1273564
+22 0 0 0 20 33 2408131
+23 6 22 698012 22 36 573001
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 19 44 1302793
+hr 5 21 535766
+rs 5 36 705464
+nl 2 2 0
+ec 2 2 986007
+gb 2 11 437613
+md 2 2 29572
+cn 1 10 426125
+cw 1 1 14786
+ie 1 10 426125
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+AhrefsBot/ 597 25427990 20181123120647 5
+Googlebot/ 94 2492589 20181130163559 16
+Googlebot\-Image/ 19 177444 20181104162117 0
+unknown 1 24 20181114195435 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+Unknown 10 1093806 0 0
+css 34 1209574 0 0
+js 33 1285384 0 0
+jpg 32 859855 0 0
+html 30 415608 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 2 48
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win10 44 10
+macosx10 1 1
+linux 20 4
+Unknown 4 2
+macosx12 13 13
+win7 56 7
+winxp 1 1
+winnt 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+chrome60.0.3112.50 18 2
+chrome40.0.2214.85 10 1
+Unknown 1 0
+firefox40.1 1 1
+firefox36.0 2 2
+chrome27.0.1453.94 1 1
+chrome70.0.3538.77 21 5
+mozilla 1 0
+opera56.0.3051.104 11 2
+edge17 10 1
+chrome36.0.1985.125 10 1
+chrome60.0.3112.101 2 2
+firefox63.0 35 4
+chrome69.0.3497.100 2 2
+chrome61.0.3163.100 13 13
+firefox59.0 1 1
+chrome67.0.2526.73 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(SIMON_SMITH_NT_10.0;_WOW64;_forensic@evestigator.com.au)_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/67.0.2526.73_Safari/537.36 20181124121856
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20181103092305
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 29 31
+From1 0 0
+From2 0 0
+From3 2 2
+From4 9 108
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://webdizajn.ict.edu.rs/aplikacija/student/prikaz_bodova 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 41 14596
+301 6 0
+404 129 4235457
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+/assets/ItemSlider/js/jquery.catslider.js 33 http://www.mladensblogger.rs/
+/guitarsType/pics/guits/1525890993.jpg 1 -
+/guitarsType/pics/guits/1525890879.jpg 1 -
+/guitarsType/pics/guits/1525890945.jpg 1 -
+/.ssh/id_rsa 10 -
+/guitarsType/pics/guits/1525890505.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+/guitarsMnfctr/assets/ItemSlider/js/jquery.catslider.js 5 http://www.mladensblogger.rs/guitarsMnfctr/LTD
+/guitarsType/pics/guits/1525889811.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+http://mladensblogger.rs/assets/ItemSlider/js/jquery.catslider.js 2 http://mladensblogger.rs/
+/scripts/cfformhistory.cfm 20 -
+/guits_show/pics/guits/1525890655.jpg 1 -
+/.git/config 10 -
+/guitarsType/pics/guits/1525890266.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+/guitarsType/pics/guits/1525891051.jpg 1 -
+/guitarsType/pics/guits/1525890432.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+/guitarsType/pics/guits/1525889451.jpg 1 -
+/wp-admin/admin-ajax.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/guitarsType/assets/ItemSlider/js/jquery.catslider.js 6 http://www.mladensblogger.rs/guitarsType/Bass
+//xmlrpc.php 1 http://www.google.com.hk
+/guits_show/assets/ItemSlider/js/jquery.catslider.js 6 http://www.mladensblogger.rs/guits_show/24
+/wp-login.php 12 -
+//wp-login.php 2 http://www.google.com.hk
+/guitarsType/pics/guits/1525890364.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+/guitarsType/pics/guits/1525890581.jpg 2 http://mladensblogger.rs/guitarsType/Electric
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+52.53.201.78 13 13 193518 20181130050952
+94.253.253.82 5 21 535766 20181109120942
+77.243.30.163 4 35 690578 20181125120941
+209.182.232.134 4 20 668240 20181121235513
+94.102.57.141 2 2 0 20181124121856
+82.145.221.249 2 11 437613 20181127015006
+181.196.24.90 2 2 986007 20181130201653
+178.175.142.132 2 2 29572 20181129084237
+64.246.165.210 1 1 14886 20181114195436
+173.252.87.15 1 2 107885 20181102092728
+31.13.115.11 1 3 139952 20181103101339
+87.116.190.63 1 1 14886 20181104122259
+42.236.10.92 1 5 185306 20181116161428
+190.2.148.176 1 1 14786 20181107170037
+173.252.87.6 0 2 129582 
+31.13.115.10 0 1 100823 
+31.13.115.3 0 1 93099 
+42.236.10.78 0 2 104669 
+173.252.87.9 0 2 104669 
+31.13.127.15 0 1 24 
+173.252.95.23 0 1 24 
+31.13.115.5 0 1 18246 
+42.236.10.84 0 2 14915 
+42.236.10.75 0 1 121235 
+31.13.115.14 0 2 14915 
+173.252.87.4 0 2 73490 
+31.13.115.4 0 2 59090 
+173.252.87.16 0 2 10499 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20181102 1 10 426173 1
+20181103 2 11 441059 2
+20181104 1 1 14886 1
+20181105 1 1 14886 1
+20181107 2 2 29672 2
+20181109 6 22 550652 2
+20181112 1 1 14886 1
+20181114 2 2 29772 2
+20181116 2 11 441011 2
+20181119 1 1 14886 1
+20181121 5 21 683126 2
+20181123 1 1 14886 1
+20181124 2 2 0 2
+20181125 5 36 705464 2
+20181127 3 12 452499 2
+20181129 2 2 29572 1
+20181130 3 3 1000893 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+0s-30s 25
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 30 415608 26 23
+/guitarsMnfctr/Epiphone 2 17636 0 1
+/guitarsType/Electric 2 22976 0 1
+/guitars 1 20699 0 1
+/login_page 1 8078 0 0
+/doc 1 971121 1 0
+/gallery 1 10874 0 0
+/reg_page 1 8475 0 1
+/cpanel 1 33947 0 0
+END_SIDER

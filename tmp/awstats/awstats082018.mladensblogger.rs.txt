@@ -1,0 +1,329 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/awstats.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2687                
+POS_VISITOR 7106                
+POS_DAY 8225                
+POS_DOMAIN 3366                
+POS_LOGIN 3655                
+POS_ROBOT 3810                
+POS_WORMS 4095                
+POS_EMAILSENDER 4226                
+POS_EMAILRECEIVER 4369                
+POS_SESSION 8828                
+POS_SIDER 9018                
+POS_FILETYPES 4504                
+POS_DOWNLOADS 4680                
+POS_OS 4801                
+POS_BROWSER 4968                
+POS_SCREENSIZE 5247                
+POS_UNKNOWNREFERER 5321                
+POS_UNKNOWNREFERERBROWSER 5434                
+POS_ORIGIN 5542                
+POS_SEREFERRALS 5677                
+POS_PAGEREFS 5821                
+POS_SEARCHWORDS 6004                
+POS_KEYWORDS 6156                
+POS_MISC 2350                
+POS_ERRORS 6215                
+POS_CLUSTER 3511                
+POS_SIDER_404 6340                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180901033235 1 0 10345876478680
+FirstTime 20180801175245
+LastTime 20180831005956
+LastUpdate 20180901153708 1 0 0 0 0
+TotalVisits 38                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 22 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 29772 3 13 488860
+1 0 0 0 1 8 106918
+2 1 1 14886 0 7 88382
+3 2 4 29826 1 3 49590
+4 2 20 852500 2 9 179544
+5 2 2 29772 0 4 33297
+6 0 0 0 3 16 439696
+7 1 10 426125 0 7 468958
+8 1 1 14886 0 0 0
+9 0 0 0 0 0 0
+10 2 20 852375 0 9 149602
+11 2 2 29772 0 1 32833
+12 4 4 1015076 1 4 73801
+13 1 10 426225 2 16 465009
+14 1 10 426125 0 4 65666
+15 5 23 934982 3 10 183582
+16 3 12 493971 0 1 32833
+17 11 38 1511685 4 20 351436
+18 3 21 867161 1 7 146218
+19 1 10 426125 1 5 106782
+20 3 3 63595 0 1 0
+21 5 5 112529 2 8 188586
+22 1 1 14886 0 0 0
+23 1 1 14886 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 26 44 2164871
+rs 23 113 4702349
+ng 2 20 852500
+dz 2 20 852375
+ua 1 3 15065
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 59 1274490 20180831120553 11
+no_user_agent 4 403292 20180823074421 0
+unknown 3 72 20180830054153 3
+Googlebot\-Image/ 2 19929 20180831120619 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+jpg 16 1613168 0 0
+css 64 2398320 0 0
+html 38 564393 0 0
+txt 2 154 0 0
+js 64 2569936 0 0
+Unknown 16 1441189 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/.well-known/pki-validation/443B7798F9D7C054C8D03E4735CBDF19.txt 2 0 154
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win10 92 20
+linux 4 4
+Unknown 2 0
+macosx12 15 15
+linuxandroid 30 3
+win8.1 10 1
+win7 45 9
+macosx10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome60.0.3112.101 3 3
+firefox59.0 2 2
+chrome61.0.3163.100 15 15
+firefox61.0 123 24
+chrome67.0.3396.99 10 1
+Unknown 2 0
+chrome68.0.3440.85 20 2
+chrome67.0.3396.87 10 1
+firefox53.0 4 4
+firefox52.7.0 1 1
+chrome68.0.3440.106 10 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20180814031109
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20180814031109
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 56
+From1 0 0
+From2 0 0
+From3 0 36
+From4 0 108
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mail.mladensblogger.rs 0 36
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+405 1 33873
+302 2 712
+404 58 1904314
+403 2 14911
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/guitarsMnfctr/assets/ItemSlider/js/jquery.catslider.js 5 http://www.mladensblogger.rs/guitarsMnfctr/Yamaha
+/assets/ItemSlider/js/jquery.catslider.js 44 http://www.mladensblogger.rs/
+/robots.txt 1 -
+/guits_show/pics/guits/1526008099.jpg 1 -
+/guitarsType/assets/ItemSlider/js/jquery.catslider.js 2 http://www.mladensblogger.rs/guitarsType/Acoustic
+/guits_show/assets/ItemSlider/js/jquery.catslider.js 4 http://www.mladensblogger.rs/guits_show/21
+/logreg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+52.53.201.78 15 15 223290 20180831005956
+178.220.94.75 5 14 561817 20180803175807
+184.94.240.92 4 4 1015076 20180811124131
+109.92.158.17 4 22 920096 20180815173203
+178.220.94.190 3 21 886173 20180818164634
+178.220.94.32 3 21 886173 20180816155848
+41.105.223.168 2 20 852375 20180804181625
+41.203.72.16 2 20 852500 20180805042811
+178.220.94.25 2 2 67846 20180817162652
+94.130.167.98 1 1 14911 20180803212147
+64.246.165.170 1 1 14886 20180812020132
+52.41.95.174 1 1 14786 20180807031632
+54.189.48.78 1 1 14786 20180829200841
+178.220.94.2 1 10 426125 20180827192639
+69.171.251.1 1 3 22563 20180823074352
+52.35.131.126 1 1 14786 20180803183041
+24.135.87.106 1 10 426125 20180804101416
+109.92.158.192 1 1 33923 20180810213330
+109.92.158.98 1 1 33923 20180821210219
+107.182.113.106 1 10 426250 20180805102131
+64.246.161.190 1 1 14886 20180830054153
+93.87.234.106 1 10 426225 20180811131355
+178.220.94.229 1 1 33923 20180819203606
+94.130.23.82 0 2 154 
+69.171.251.5 0 3 147828 
+69.171.251.15 0 1 100823 
+69.171.251.4 0 2 61812 
+69.171.251.16 0 1 93099 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20180801 1 1 14886 1
+20180803 8 17 606400 4
+20180804 3 30 1278500 2
+20180805 4 31 1293636 3
+20180807 2 2 29672 2
+20180809 1 1 14886 1
+20180810 1 1 33923 1
+20180811 5 14 1441301 2
+20180812 2 2 29772 2
+20180814 1 3 15040 1
+20180815 4 22 920096 1
+20180816 4 22 901059 2
+20180817 2 2 67846 1
+20180818 4 22 901059 3
+20180819 2 2 48809 2
+20180821 1 1 33923 1
+20180822 1 1 14886 1
+20180823 1 10 426125 1
+20180824 1 1 14886 1
+20180826 1 1 14886 1
+20180827 1 10 426125 1
+20180828 1 1 14886 1
+20180829 1 1 14786 1
+20180830 1 1 14886 1
+20180831 1 1 14886 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 32
+30s-2mn 1
+5mn-15mn 2
+15mn-30mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 38 564393 33 30
+/cpanel 13 440999 5 7
+/autor 1 8030 0 0
+/guitars 1 21039 0 1
+/doc 1 971121 0 0
+END_SIDER

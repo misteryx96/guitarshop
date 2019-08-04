@@ -1,0 +1,30 @@
+Return-Path: <mladens1@host36.dwhost.net>
+Delivered-To: mladens1@host36.dwhost.net
+Received: from host36.dwhost.net
+	by host36.dwhost.net with LMTP id UCunGfk5vVvYWyAAByvczg
+	for <mladens1@host36.dwhost.net>; Wed, 10 Oct 2018 01:30:01 +0200
+Return-path: <mladens1@host36.dwhost.net>
+Envelope-to: mladens1@host36.dwhost.net
+Delivery-date: Wed, 10 Oct 2018 01:30:01 +0200
+Received: from mladens1 by host36.dwhost.net with local (Exim 4.91)
+	(envelope-from <mladens1@host36.dwhost.net>)
+	id 1gA1Rx-008tfL-AB
+	for mladens1@host36.dwhost.net; Wed, 10 Oct 2018 01:30:01 +0200
+From: "(Cron Daemon)" <mladens1@host36.dwhost.net>
+To: mladens1@host36.dwhost.net
+Subject: Cron <mladens1@host36> /guitshop.mladensblogger.rs php artisan config:clear
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=c752686>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/1613>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/usr/local/cpanel/bin/jailshell>
+X-Cron-Env: <HOME=/home/mladens1>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=mladens1>
+X-Cron-Env: <USER=mladens1>
+Message-Id: <E1gA1Rx-008tfL-AB@host36.dwhost.net>
+Date: Wed, 10 Oct 2018 01:30:01 +0200
+
+/usr/local/cpanel/bin/jailshell: /guitshop.mladensblogger.rs: No such file or directory

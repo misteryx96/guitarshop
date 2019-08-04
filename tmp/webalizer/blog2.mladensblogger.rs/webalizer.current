@@ -1,0 +1,193 @@
+# Webalizer V2.23-08 Incremental Data - 08/02/2019 09:45:06
+2019 8 2 9 45 6
+55 51 2 24 9 2 3843586 10 2 0
+1 23 24 1 2
+32 29 2507429 1 4 1
+23 22 1336157 1 6 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+23 22 1336157 6
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 8 248148 2
+24 21 2259281 2
+0 0 0 0
+0 0 0 0
+0
+0
+0
+51
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/portfolio/pf6.jpg
+0 2 8028900191616989801 60292 0 0
+/assets/img/portfolio/pf4.jpg
+0 2 0 41124 0 0
+/assets/img/hurtsi.jpg
+0 1 7240928 42184 0 0
+/oautoru.html
+0 1 7234112 3470 0 0
+/assets/js/skriptaprijava.js
+0 1 7240624 2002 0 0
+/prijava.html
+0 1 7226944 4223 0 0
+/assets/img/hurts.jpg
+0 3 0 405273 0 0
+/assets/img/revolve.jpg
+0 1 0 104926 0 0
+/assets/img/ja.jpg
+0 1 7234336 129968 0 0
+/assets/img/portfolio/pf3.jpg
+0 2 0 63300 0 0
+/assets/css/bootstrap.css
+0 4 0 484880 0 0
+/assets/img/sits.jpg
+0 2 0 95784 0 0
+/assets/img/portfolio/pf1.jpg
+0 3 0 124305 0 0
+/assets/img/portfolio/pf5.jpg
+0 2 0 68606 0 0
+/assets/img/portfolio/pf2.jpg
+0 3 0 162879 0 0
+/hurts.html
+0 1 7240816 7456 0 0
+/
+0 4 0 17608 1 0
+/assets/img/back.jpg
+0 3 0 1920012 0 0
+/assets/js/ddown.js
+0 2 0 928 0 0
+/assets/js/skriptaanketa.js
+0 1 7234672 1161 0 0
+/anketa.html
+0 1 7234560 4905 0 0
+/recenzije.html
+0 2 0 7036 1 0
+/assets/css/style.css
+0 4 0 20144 0 0
+/assets/css/font-awesome.min.css
+0 4 0 71120 0 0
+# End Of Table - urls
+# -sites- (monthly)
+net220-39-245-109.mbb.telenor.rs
+0 23 22 1336157 1 1564739106
+/hurts.html
+185-37-27-233.dynamic.vipmobile.rs
+0 32 29 2507429 1 1564693795
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+net220-39-245-109.mbb.telenor.rs
+0 23 22 1336157 1 1564739106
+/hurts.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://blog2.mladensblogger.rs/hurts.html
+0 2
+http://blog2.mladensblogger.rs/assets/css/style.css
+0 3
+- (Direct Request)
+0 8
+http://blog2.mladensblogger.rs/index.html
+0 2
+http://blog2.mladensblogger.rs/
+0 23
+http://blog2.mladensblogger.rs/anketa.html
+0 2
+http://blog2.mladensblogger.rs/oautoru.html
+0 2
+http://blog2.mladensblogger.rs/recenzije.html
+0 12
+http://blog2.mladensblogger.rs/prijava.html
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+0 32
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

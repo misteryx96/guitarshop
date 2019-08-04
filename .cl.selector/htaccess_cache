@@ -1,0 +1,15 @@
+[/home/mladens1/public_html]
+htaccess_list = /home/mladens1/public_html/.htaccess
+
+[/home/mladens1/guitshop.mladensblogger.rs/public]
+htaccess_list = /home/mladens1/guitshop.mladensblogger.rs/public/.htaccess
+
+[/home/mladens1/public]
+htaccess_list = /home/mladens1/public/.htaccess
+
+[/home/mladens1/blog.mladensblogger.rs]
+htaccess_list = 
+
+[/home/mladens1/blog2.mladensblogger.rs]
+htaccess_list = 
+

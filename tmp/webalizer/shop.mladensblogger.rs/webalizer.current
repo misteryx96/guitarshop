@@ -1,0 +1,156 @@
+# Webalizer V2.23-08 Incremental Data - 01/15/2019 00:03:01
+2019 1 15 0 3 1
+11 4 7 3 1 5 242 6 6 0
+1 1 3 3 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+1 0 0 1 1 1
+2 1 24 1 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+0 0 0 0 0 0
+3 3 218 2 0 0
+1 0 0 1 1 1
+1 0 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 0 2
+0 0 0 0
+1 0 0 1
+4 3 218 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 24 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/pki-validation/46B25B14C45201B640CB64F71370C16E.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/E80E992DB6D9C68900027335E89BDFCB.txt
+0 2 0 154 0 0
+/robots.txt
+0 1 0 24 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ns500894.ip-192-99-1.net
+0 2 1 24 0 0
+-
+secure.comodo.net
+0 2 2 154 0 0
+-
+host36.dwhost.net
+0 1 1 64 0 0
+-
+daniela.onyphe.io
+0 1 0 0 1 1547510581
+-
+60.191.38.77
+0 3 0 0 3 1547190377
+-
+probe12.onyphe.io
+0 1 0 0 1 1547504782
+-
+jobqueue-listener.jobqueue.netcraft.com-ud35aa0360ebb11e9b230aa66838d6ab1u-digitalocean-2gb
+0 1 0 0 1 1546475436
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+daniela.onyphe.io
+0 1 0 0 1 1547510581
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+COMODO DCV
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

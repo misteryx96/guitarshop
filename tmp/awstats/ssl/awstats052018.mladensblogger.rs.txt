@@ -1,0 +1,322 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /home/mladens1/tmp/awstats/ssl/awstats.mladensblogger.rs.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2691                
+POS_VISITOR 7383                
+POS_DAY 7661                
+POS_DOMAIN 3253                
+POS_LOGIN 3496                
+POS_ROBOT 3651                
+POS_WORMS 3783                
+POS_EMAILSENDER 3914                
+POS_EMAILRECEIVER 4057                
+POS_SESSION 7894                
+POS_SIDER 8058                
+POS_FILETYPES 4192                
+POS_DOWNLOADS 4451                
+POS_OS 4499                
+POS_BROWSER 4602                
+POS_SCREENSIZE 4708                
+POS_UNKNOWNREFERER 4782                
+POS_UNKNOWNREFERERBROWSER 4954                
+POS_ORIGIN 5036                
+POS_SEREFERRALS 5171                
+POS_PAGEREFS 5315                
+POS_SEARCHWORDS 6761                
+POS_KEYWORDS 6913                
+POS_MISC 2354                
+POS_ERRORS 6972                
+POS_CLUSTER 3352                
+POS_SIDER_404 7074                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180603072643 1 0 11733964297400
+FirstTime 20180510082054
+LastTime 20180531090003
+LastUpdate 20180603155608 1 0 0 0 0
+TotalVisits 10                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 11 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 28 75 1278462 4 14 94397
+1 0 0 0 0 0 0
+2 0 0 0 0 1 8192
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 5 15 100025 2 5 35729
+6 15 48 715033 3 5 35738
+7 0 0 0 0 0 0
+8 2 2 29724 1 1 35
+9 1 1 14911 0 0 0
+10 1 1 14911 0 0 0
+11 0 0 0 0 0 0
+12 1 1 14911 0 0 0
+13 0 0 0 0 0 0
+14 48 101 1530199 2 5 44383
+15 1 1 1406 1 1 11672
+16 0 0 0 0 0 0
+17 14 39 583237 3 4 33043
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+rs 110 278 4193451
+us 6 6 89368
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+tt 3 2350 0 0
+svg 18 342054 0 0
+gif 6 5559 0 0
+Unknown 9 918 0 0
+html 21 167160 0 0
+js 27 868774 0 0
+css 38 347359 0 0
+php 50 1397976 0 0
+png 79 264333 0 0
+woff 29 659216 0 0
+woff2 4 227120 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win7 278 110
+macosx12 5 5
+Unknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome61.0.3163.100 5 5
+mozilla 1 1
+firefox59.0 278 110
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180510082054
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 95
+From1 0 0
+From2 0 0
+From3 60 186
+From4 3 3
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+https://cpanel.mladensblogger.rs/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 18 18
+https://cpanel.mladensblogger.rs/cPanel_magic_revision_1509923656/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 12 12
+https://cpanel.mladensblogger.rs/cpsess9131860488/frontend/paper_lantern/index.html 7 28
+https://cpanel.mladensblogger.rs 4 13
+https://cpanel.mladensblogger.rs/cpsess7250440407/frontend/paper_lantern/index.html 4 23
+https://cpanel.mladensblogger.rs/cpsess8337031657/frontend/paper_lantern/index.html 4 25
+https://cpanel.mladensblogger.rs/unprotected/loader.html 3 3
+https://cpanel.mladensblogger.rs/cPanel_magic_revision_1509923654/frontend/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 3 3
+https://cpanel.mladensblogger.rs/cpsess4355527324/3rdparty/phpMyAdmin/sql.php 3 6
+https://cpanel.mladensblogger.rs/cpsess9131860488/3rdparty/phpMyAdmin/sql.php 2 5
+https://cpanel.mladensblogger.rs/styled/current_style/sprites/icon_spritemap.css 0 6
+https://cpanel.mladensblogger.rs/cpsess9131860488/frontend/paper_lantern/sql/PhpMyAdmin.html 0 4
+https://cpanel.mladensblogger.rs/cPanel_magic_revision_1509923696/unprotected/cpanel/style_v2_optimized.css 0 37
+https://cpanel.mladensblogger.rs/cpsess0894190621/3rdparty/phpMyAdmin/sql.php 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 15 163729
+308 10 1212
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+147.91.1.43 48 101 1516694 20180511150831
+147.91.1.44 42 114 1861699 20180512003247
+91.187.133.215 20 63 815058 20180511061755
+54.215.254.26 5 5 74555 20180531090003
+165.227.210.50 1 1 14813 20180510082054
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20180510 1 1 14813 1
+20180511 82 203 2914989 3
+20180512 28 75 1278462 1
+20180516 1 1 14911 1
+20180522 1 1 14911 1
+20180525 1 1 14911 1
+20180528 1 1 14911 1
+20180531 1 1 14911 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 2
+0s-30s 7
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 53
+/cpsess9131860488/3rdparty/phpMyAdmin/index.php 15 32704 0 1
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 6 135960 1 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 6 134592 0 1
+/cpsess9131860488/3rdparty/phpMyAdmin/js/get_scripts.js.php 6 407780 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 6 137448 1 0
+/ 6 89368 6 6
+/login/ 5 969 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/js/get_scripts.js.php 4 402629 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/js/get_scripts.js.php 4 402629 0 0
+/cPanel_magic_revision_1509923656/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 3 170340 0 0
+/cPanel_magic_revision_1509923656/frontend/paper_lantern/_assets/css/OpenSans-Bold-webfont.woff 3 67296 0 0
+/unprotected/loader.html 3 2715 2 0
+/cPanel_magic_revision_1509923656/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 3 69960 0 0
+/cPanel_magic_revision_1509923656/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 3 67980 0 0
+/unprotected/redirect.html 3 1539 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/navigation.php 2 3825 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/sql.php 2 19373 0 0
+/cpsess7250440407/execute/Notifications/get_notifications_count 1 66 0 0
+/cpsess9131860488/frontend/paper_lantern/sql/PhpMyAdmin.html 1 7067 0 0
+/cpsess8337031657/frontend/paper_lantern/home/views/statistics.html.tt 1 778 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/js/whitelist.php 1 475 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/index.php 1 1383 0 1
+/cpsess4355527324/3rdparty/phpMyAdmin/sql.php 1 14952 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/js/messages.php 1 8691 0 0
+/cpsess9131860488/frontend/paper_lantern/home/views/statistics.html.tt 1 777 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/js/whitelist.php 1 475 0 0
+/cpsess7250440407/execute/Themes/list 1 97 0 0
+/cPanel_magic_revision_1509923654/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/js/messages.php 1 8691 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/js/get_image.js.php 1 1841 0 0
+/cpsess9131860488/execute/Themes/list 1 97 0 0
+/cpsess9131860488/frontend/paper_lantern/ 1 21863 0 0
+/cpsess8337031657/frontend/paper_lantern/ 1 21807 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/sql.php 1 9022 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/db_structure.php 1 5788 0 0
+/cpsess9131860488/execute/Resellers/list_accounts 1 143 0 0
+/cPanel_magic_revision_1509923654/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/cPanel_magic_revision_1509923654/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/index.php 1 4471 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/phpmyadmin.css.php 1 20133 0 0
+/cpsess8337031657/execute/Notifications/get_notifications_count 1 66 0 1
+/cpsess0894190621/3rdparty/phpMyAdmin/js/whitelist.php 1 475 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/js/get_image.js.php 1 1841 0 0
+/cpsess7250440407/execute/Resellers/list_accounts 1 143 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/phpmyadmin.css.php 1 20133 0 0
+/cpsess0894190621/3rdparty/phpMyAdmin/phpmyadmin.css.php 1 20133 0 0
+/cpsess8337031657/execute/Themes/list 1 97 0 0
+/cpsess7250440407/frontend/paper_lantern/home/views/statistics.html.tt 1 795 0 0
+/cpsess9131860488/execute/Notifications/get_notifications_count 1 66 0 0
+/cpsess4355527324/3rdparty/phpMyAdmin/js/get_image.js.php 1 1841 0 0
+/cpsess9131860488/3rdparty/phpMyAdmin/js/messages.php 1 8691 0 0
+/cpsess7250440407/frontend/paper_lantern/ 1 21832 0 0
+/cpsess8337031657/execute/Resellers/list_accounts 1 143 0 0
+END_SIDER
