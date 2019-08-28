@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Mladen
- * Date: 5/9/2018
- * Time: 7:22 PM
- */
 
 namespace App\Http\Controllers;
 use App\Models\Order;

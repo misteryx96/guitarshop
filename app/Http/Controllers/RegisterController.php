@@ -110,7 +110,6 @@ class RegisterController extends Controller
             return redirect('/')->with('error', 'Greška pri radu aplikacije, molimo pokušajte ponovo!');
         }
 
-
     }
 
     public function verifyUser($token){

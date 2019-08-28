@@ -40,8 +40,6 @@ class MeniController extends Controller
 
         $naziv = $request->get('tbNaziv');
         $link = $request->get('tbLink');
-
-     /*   try{ */
             $menu = new Meni();
             $menu->naziv = $naziv;
             $menu->link = $link;
@@ -51,9 +49,6 @@ class MeniController extends Controller
                 return redirect()->route('home')->with('success', 'Uspesan unos');}
             else{
                 return redirect()->route('home')->with('error', 'Neuspesan unos');}
-      /*  }
-        catch (\Exception $exception){
-            \Log::error('Greska: ' . $exception->getMessage());
-        } */
+      
     }
 }
