@@ -1,4 +1,5 @@
 # guitarshop
+Laravel app
 A guitar shop. Provided admin panel, also an end user interface
 
 #Tasks
@@ -8,6 +9,8 @@ A guitar shop. Provided admin panel, also an end user interface
 -Users can search guitars and buy the ones they like
 
 -Middleware protects resources from users which are not logged in
+
+-Admin panel for the administrator
 
 #Live
 
