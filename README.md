@@ -1,6 +1,5 @@
 # guitarshop
-Laravel app
-A guitar shop. Provided admin panel, also an end user interface
+This is a guitar shop app done in Laravel. Provided admin panel, also an end user interface
 
 #Tasks
 
